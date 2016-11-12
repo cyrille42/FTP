@@ -7,9 +7,9 @@ comment sa fonctionne:
 
 -make
 
--./serveur <port>
+-./serveur port
 
--./client <ip> <port>     ip = 127.0.0.1 en localhost
+-./client ip port     ip = 127.0.0.1 en localhost
 
 -ls : liste le répertoire courant du serveur
 
