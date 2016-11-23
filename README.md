@@ -1,5 +1,5 @@
 # FTP
-logiciel de communication serveur/client
+logiciel de transfère de fichier serveur/client
 
 Os :Macosx
 
